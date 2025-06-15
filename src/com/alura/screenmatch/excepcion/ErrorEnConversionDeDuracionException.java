@@ -3,7 +3,6 @@ public class ErrorEnConversionDeDuracionException extends RuntimeException {
     private String mensaje;
     public ErrorEnConversionDeDuracionException(String mensaje) {
         this.mensaje = mensaje;
-        this.mensaje = mensaje;
     }
 
     @Override
